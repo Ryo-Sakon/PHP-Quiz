@@ -1,0 +1,23 @@
+*{
+    font-family: serif;
+}
+
+body{
+    background-image:url('question-background.png');
+    text-align: center;
+    margin-top:100px;
+}
+
+.container{
+    background-color: aquamarine;
+}
+h1,h2,p,form{
+    color: blue;
+    background-color: aquamarine;
+
+}
+h1{
+    border-bottom:3px solid white;
+    margin-bottom: 50px;
+}
+
